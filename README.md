@@ -1,6 +1,6 @@
-# alcoolougasolina_
+# Aplicativo que calcula quando devemos usar álcool ou gasolina
 
-A new Flutter project.
+Projeto simples feito em Dart (Flutter).
 
 ## Getting Started
 
